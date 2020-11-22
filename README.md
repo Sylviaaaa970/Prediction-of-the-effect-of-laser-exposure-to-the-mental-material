@@ -1,0 +1,2 @@
+# Prediction-of-the-effect-of-laser-exposure-to-the-mental-material
+In the study of the mental material, it is meaningful to make the smoothness within a very small scale, like the scale of nanometer. To improve the smoothness of the surface of some mental material, laser is a very common method. But the theory of physics and chemistry can not predict accurately the result of the laser exposure in such small scale by now. Thus, my teammate and I want to do a project about the prediction of the surface state of the material after exposure of the laser.
