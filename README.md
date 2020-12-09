@@ -3,7 +3,7 @@
 
 ## Introduction
 In the study of the mental material, it is meaningful to make the smoothness within a very small scale, like the scale of nanometer. To improve the smoothness of the surface of some mental material, laser is a very common method. But the theory of physics and chemistry can not predict accurately the result of the laser exposure in such small scale by now. Thus, my teammate and I want to do a project about the prediction of the surface state of the material after exposure of the laser.    
-Implement Environment: Pytorch 1.3,Python 3.6.8
+Implement Environment: Pytorch 1.3, Python 3.6.8
 ##	Data Processing
 One of my friends is doing study of this field and he has the true experiment data, and the data is the result of white light interferometry.   
 The material in the experiment is a square flat mental board. In one group of data there are 2 files, one for before exposure and the other for after exposure. Every file is a matrix with 1024*1024 numbers and every number represents the height of the material surface in a square of 840nm*840nm. By now we have about 9 groups of data, and there will be more in future.  
@@ -32,7 +32,7 @@ The prediction error is 0.1355 micrometer.
 Experiment results:
 |Order|Loss|Distance|Analysis|
 |-|-|-|-|
-|0|16.0084|\|
+|0|16.0084|
 |1|0.3598|0.1386|
 |2|10.3299|4.3138|Vanishing Gradient|
 |3|10.3517|4.3230|Vanishing Gradient|
