@@ -17,7 +17,7 @@ The loss function:
 Loss = mean_square(|| h_hat-h_true|| 2)  
 Loss is the mean of || h_hat-h_true|| 2 of all squares
 
-The Evaluation Matric:  
+The Evaluation Metrics:  
 Distance = mean_dot(|| h_hat-h_true|| 1)  
 Distance is the mean of || h_hat-h_true|| 1 of all dots in test set 
 
